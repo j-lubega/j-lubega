@@ -14,4 +14,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: Cecil Singh # optional, but default will use the same from github
+          CREDLY_USER: Jimmy Lubega # optional, but default will use the same from github
