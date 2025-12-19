@@ -1,0 +1,26 @@
+name: create file 
+
+#on:
+  #schedule:
+ #    Runs every 10 mins
+     #- cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  createFile:
+    name: Create A File
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout public repo
+        uses: actions/checkout@v2
+        with:
+          repository: Cecilsingh/simpleRHistogram
+          token: ${{ secrets.MY_TOKEN }}
+      - name: create file
+        uses: 1arp/create-a-file-action@0.4.5
+        with:
+          path: '/simpleRHistogram'
+          isAbsolutePath: true
+          file: 'test.R'
+          content: |
+            plot(5:10)

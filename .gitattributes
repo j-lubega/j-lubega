@@ -1,0 +1,5 @@
+*.qmd linguist-language=Markdown
+*.md linguist-detectable
+*.qmd linguist-detectable
+*.yml linguist-detectable=true
+*.yml linguist-language=YAML

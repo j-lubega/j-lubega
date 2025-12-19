@@ -1,0 +1,4 @@
+#- uses: michaelcontento/credly-import-action@v1
+#  with:
+#    # username
+#    name: cecil-singh

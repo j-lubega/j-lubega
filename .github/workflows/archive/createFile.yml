@@ -1,0 +1,21 @@
+name: create file
+
+#on:
+ # schedule:
+ #    Runs at 2am UTC
+ #   - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  createFile:
+    name: Create A File
+    runs-on: ubuntu-latest
+    steps:   
+      - uses: 1arp/create-a-file-action@0.4.5
+        with:
+          path: 'src'
+          isAbsolutePath: false
+          file: 'test.txt'
+          content: |
+            Hello
+            World
