@@ -11,8 +11,8 @@
  ##  GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px> 
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jimmylubega&show_icons=true&theme=light" width="450" alt="Jimmy's stats" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jimmylubega&langs_count=10&show_icons=true&locale=en&layout=compact" alt="Jimmy's languages" height="300px"  width="350px"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-lubega&show_icons=true&theme=light" width="450" alt="Jimmy's stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-lubega&langs_count=10&show_icons=true&locale=en&layout=compact" alt="Jimmy's languages" height="300px"  width="350px"/>
 </div>
 
 
