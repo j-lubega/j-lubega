@@ -4,7 +4,7 @@
 
  ##  Certifications <img src = "https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-33-168_512.gif" width = 25px> 
 
-![alt text](https://images.credly.com/size/200x200/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)![alt text](https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png) 
+![alt text]([https://images.credly.com/size/200x200/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png](https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png))![alt text](https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png) 
 
 
 
