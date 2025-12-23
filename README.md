@@ -4,7 +4,7 @@
 
  ##  Certifications <img src = "https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-33-168_512.gif" width = 25px> 
 
-![alt text](https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png) ![alt text](https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png) 
+![alt text](https://images.credly.com/size/200x200/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png) ![alt text](https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png) 
 
 
  ##  GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px> 
