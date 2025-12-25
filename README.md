@@ -1,11 +1,10 @@
-[![](https://raw.githubusercontent.com/j-lubega/j-lubega/master/profile.gif)](https://www.purenest360.com/)
+[![](https://raw.githubusercontent.com/j-lubega/j-lubega/master/profile.gif)]
 
 ### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 ### Languages
 
