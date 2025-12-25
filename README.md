@@ -1,3 +1,15 @@
+[![](https://raw.githubusercontent.com/j-lubega/j-lubega/master/profile.gif)](https://www.purenest360.com/)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
@@ -10,7 +22,7 @@
  ##  GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px> 
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J-lubega" width="450" alt="Jimmy's stats" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-lubega" width="450" alt="Jimmy's stats" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-lubega&langs_count=10&show_icons=true&locale=en&layout=compact" alt="Jimmy's languages" height="300px"  width="350px"/>
 </div>
 
