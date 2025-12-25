@@ -1,5 +1,3 @@
-[![](https://raw.githubusercontent.com/j-lubega/j-lubega/master/profile.gif)]
-
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
