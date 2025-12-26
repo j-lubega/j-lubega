@@ -9,6 +9,8 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
