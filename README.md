@@ -3,6 +3,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=databricks)
+
 
 ### Languages
 
