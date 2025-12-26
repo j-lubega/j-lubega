@@ -4,6 +4,14 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
+### 🏆 Certifications
+
+<a href="https://lpi.org/v/LPI000419406/6phm4bd74u" target="_blank">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/14554900468127075951" width="160" height="160" alt="LPIC-3 Linux Enterprise Professional">
+</a>
+
+**Linux Enterprise Professional Certification (LPIC-3)** *Linux Professional Institute (LPI)*
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -14,6 +22,11 @@
  ##  Certifications <img src = "https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-33-168_512.gif" width = 25px> 
 
 ![alt text](https://images.credly.com/size/200x200/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png) ![alt text](https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png) 
+
+<a href="https://www.credly.com/users/jimmy-lubega/badges/">
+  <img src=""
+ width="150" height="150" alt="LPI Linux Essentials Badge">
+</a>
 
 
  ##  GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px> 
