@@ -15,8 +15,9 @@
 
 ![alt text](https://images.credly.com/size/200x200/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png) ![alt text](https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)  
 
-[![Databricks Generative AI Fundamentals](https://api.accredible.com/v1/frontend/render/image/0da3fc0a-78fe-4e66-8e75-38e27dd5a013?type=badge)](https://credentials.databricks.com/0da3fc0a-78fe-4e66-8e75-38e27dd5a013)
+[![Linux Essentials (LPI) – Verification](assets/linux-essentials.gif)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000419406/6phm4bd74u)
 
+**Linux Essentials (LPI)** — Verify: https://cs.lpi.org/caf/Xamman/certification/verify/LPI000419406/6phm4bd74u
 
  ##  GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px> 
  
