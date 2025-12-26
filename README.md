@@ -20,6 +20,9 @@
 [![Linux Essentials (LPI) – Verification](assets/linux-essentials.gif)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000419406/6phm4bd74u)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) lpi verification: https://cs.lpi.org/caf/Xamman/certification/verify/LPI000419406/6phm4bd74u
 
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)](https://credentials.databricks.com/0da3fc0a-78fe-4e66-8e75-38e27dd5a013#acc.MEIvAmhy)
+
+
  ##  GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px> 
  
  <div>
