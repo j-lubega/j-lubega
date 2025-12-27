@@ -1,4 +1,3 @@
-## This is a test with Jona
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
