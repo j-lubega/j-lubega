@@ -1,17 +1,30 @@
+<p align="center">
+ 
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=My%20Tech%20Stack&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0N3J0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZmPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Black man coding" />
+</p>
+
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud)
-![Databricks Generative AI](https://img.shields.io/badge/-Databricks-000?&logo=databricks)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=844FBA)
+![AWS](https://img.shields.io/badge/-AWS%20-000?&logo=Amazon-Cloud)
+![GCP](https://img.shields.io/badge/-GCP%20-000?&logo=Google-Cloud)
 ![Dataiku](https://img.shields.io/badge/-Dataiku-000?&logo=dataiku&logoColor=21C1C1)
+![Databricks Generative AI](https://img.shields.io/badge/-Databricks-000?&logo=databricks)
 
-## IDEs
+## Integrated Development Environments
 
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudioide&logoColor=white)
 ![Posit](https://img.shields.io/badge/-Posit-447099?logo=posit&logoColor=white)
+![VS Code](https://img.shields.io/badge/-%F0%9F%92%BB%20VS%20Code-000?&logo=visual-studio-code&logoColor=007ACC)
+![Dataiku](https://img.shields.io/badge/-Dataiku-000?&logo=dataiku&logoColor=21C1C1)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
