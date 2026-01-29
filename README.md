@@ -1,3 +1,28 @@
+<!-- Animated Wave Header -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=240&section=header&text=My%20Tech%20Stack&fontSize=72&fontAlignY=40&animation=fadeIn"
+    alt="My Tech Stack Header"
+  />
+</p>
+
+<!-- Coding Animation -->
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2p0eGQ5c3p6eWZmdnN0YTRmM25zZXN2Y2p0czZxM2ZxYzRwbSZjdD1n/26tn33aiTi1jkl6H6/giphy.gif"
+    width="500"
+    alt="Developer coding animation"
+  />
+</p>
+
+<!-- Subtle Divider -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"
+    alt="divider"
+  />
+</p>
+
 <p align="center">
  
   <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=My%20Tech%20Stack&fontSize=70&animation=fadeIn&fontAlignY=38" />
@@ -10,6 +35,7 @@
 
 ### Technologies
 
+
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -18,6 +44,7 @@
 ![GCP](https://img.shields.io/badge/-GCP%20-000?&logo=Google-Cloud)
 ![Dataiku](https://img.shields.io/badge/-Dataiku-000?&logo=dataiku&logoColor=21C1C1)
 ![Databricks Generative AI](https://img.shields.io/badge/-Databricks-000?&logo=databricks)
+
 
 ## Integrated Development Environments
 
@@ -33,12 +60,13 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000419406/6phm4bd74u)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)](https://credentials.databricks.com/0da3fc0a-78fe-4e66-8e75-38e27dd5a013#acc.MEIvAmhy)
-
 ![alt text](https://images.credly.com/size/200x200/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png) ![alt text](https://images.credly.com/size/200x200/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)  
+
 
 ### Languages
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
 
  ##  GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px> 
  
