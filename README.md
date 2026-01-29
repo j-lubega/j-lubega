@@ -4,8 +4,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud&logoColor=4285F4)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud&logoColor=4285F4)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud)
 ![Databricks Generative AI](https://img.shields.io/badge/-Databricks-000?&logo=databricks)
 ![Dataiku](https://img.shields.io/badge/-Dataiku-000?&logo=dataiku&logoColor=21C1C1)
 
