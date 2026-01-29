@@ -1,7 +1,7 @@
 <!-- Animated Wave Header -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=240&section=header&text=My%20Tech%20Stack&fontSize=72&fontAlignY=40&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=240&section=header&text=My%20Tech%20Stack&fontSize=60&fontAlignY=45&animation=fadeIn"
     alt="My Tech Stack Header"
   />
 </p>
